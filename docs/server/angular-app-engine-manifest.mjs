@@ -1,6 +1,6 @@
 
 export default {
-  basePath: 'https://github.com/jcoime8/Pagina2.git',
+  basePath: 'C:/Program Files/Git/Pagina2',
   supportedLocales: {
   "en-US": ""
 },
